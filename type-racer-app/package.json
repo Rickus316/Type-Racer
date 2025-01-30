@@ -1,0 +1,14 @@
+{
+  "name": "type-racer-app",
+  "version": "1.0.0",
+  "description": "A simple Type Racer typing game application.",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
